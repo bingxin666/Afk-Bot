@@ -118,3 +118,8 @@ dist
 .pnp.*
 
 .idea
+
+# node.js
+
+node_modules/
+package-lock.json
